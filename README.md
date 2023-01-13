@@ -15,6 +15,6 @@ Chef de projet digital
 <h2>📫 Comment me contacter</h2>
 <ul>
   <li>Twitter : https://twitter.com/vidjinnangniG</li>
-  <li>Medium : https://vidjinnangni.com/</li>
+  <li>Site web : https://vidjinnangni.net</li>
   <li>LinkedIn : https://www.linkedin.com/in/vidjinnangni/</li>
 </ul>
