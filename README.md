@@ -1,4 +1,4 @@
-<h2>👋 Hello, Je suis Vidjinnangni Grégory Thoto</h2>
+<h2>👋 Hello, I am Vidjinnangni Gregory Thoto</h2>
 
 Passionate about innovations that create positive impact, jobs and new narratives in Africa.
 
