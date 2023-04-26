@@ -3,7 +3,6 @@
 Passionate about innovations that create positive impact, jobs and new narratives in Africa.
 
 <h2>🛠️ Skills</h2>
-Innovation project manager
 <ul>
   <li>Digital transformation</li>
   <li>Digital project & product management</li>
