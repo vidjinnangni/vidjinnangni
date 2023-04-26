@@ -5,9 +5,10 @@ Passionate about innovations that create positive impact, jobs and new narrative
 <h2>🛠️ Skills</h2>
 Innovation project manager
 <ul>
-  <li>HTML, CSS, PHP, JavaScript, Python</li>
+  <li>Digital transformation</li>
+  <li>Digital project & product management</li>
   <li>Augmented reality, virtual reality</li>
-  <li>Web analytics</li>
+  <li>Data analysis</li>
 </ul>
 
 <h2>📫 How to get in touch with me</h2>
