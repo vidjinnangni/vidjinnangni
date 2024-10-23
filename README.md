@@ -7,13 +7,10 @@ Passionate about innovations that create positive impact, jobs and new narrative
   <li>Digital transformation</li>
   <li>Digital project & product management</li>
   <li>Augmented reality, virtual reality</li>
-  <li>Data analysis</li>
 </ul>
 
 <h2>📫 How to get in touch ?</h2>
 <ul>
-  <li>Twitter : https://twitter.com/vidjinnangniG</li>
-  <li>Site web : https://vidjinnangni.net</li>
+  <li>Website : https://vidjinnangni.net</li>
   <li>LinkedIn : https://www.linkedin.com/in/vidjinnangni/</li>
-  <li>Portfolio : https://showspace.so/s/vidjinnangni</li>
 </ul>
