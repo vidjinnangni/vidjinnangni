@@ -19,8 +19,9 @@ Project manager with a master’s degree in international project management, li
 
 ---
 
-**Exploring**
+**Exploring...**
 
+- 🏠 Homelabing and self-hosted solutions.
 - 🐳 Containerization and orchestration with Docker.
 - 🗄️ Database optimization & automation.
 - 🧑‍💻 Creative solutions in project management and tech integration.
